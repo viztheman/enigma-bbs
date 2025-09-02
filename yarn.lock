@@ -235,8 +235,7 @@ buffer@^5.5.0:
 
 "buffers@github:NuSkooler/node-buffers":
   version "0.1.1"
-  resolved "https://codeload.github.com/NuSkooler/node-buffers/tar.gz/cd0855598f7048b02f0a51c90e22573973e9e2c2"
-  integrity sha512-1ecGbvOuz+ipxY5u3fLHpYOyYegFwb+RF0c1SARAR3ENHUrbkqLouoGyxSVM2FrNLPXzMCpsDNnYBqfvS2z3mQ==
+  resolved "git+ssh://git@github.com/NuSkooler/node-buffers.git#cd0855598f7048b02f0a51c90e22573973e9e2c2"
 
 buildcheck@~0.0.6:
   version "0.0.6"
