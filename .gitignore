@@ -21,3 +21,6 @@ www/assets/*
 
 #   Runtime Environment
 .venv
+
+#   Custom config folders
+dos
